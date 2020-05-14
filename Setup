@@ -1,6 +1,4 @@
-<!Doctype html/>
-<title>This is title<title/>
-<body>yolo<body/>
+
 
 git init --locally initialize git
 git clone <html> --to clone a remote repo
