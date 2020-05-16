@@ -10,6 +10,12 @@ git config --global user.name "Dev"
 git config --global user.email "devashish16@gmail.com"
 
 get remote add GIT <html>
+git remote remove GIT
+
+git remote set-url origin https://github.com/your-other/repository
+
+git push --set-upstream origin master 
+‍
 
 git pull --allow-unrelated-histories GIT master
 
